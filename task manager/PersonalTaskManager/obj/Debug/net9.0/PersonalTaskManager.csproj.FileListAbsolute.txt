@@ -1,0 +1,14 @@
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\bin\Debug\net9.0\PersonalTaskManager.exe
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\bin\Debug\net9.0\PersonalTaskManager.deps.json
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\bin\Debug\net9.0\PersonalTaskManager.runtimeconfig.json
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\bin\Debug\net9.0\PersonalTaskManager.dll
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\bin\Debug\net9.0\PersonalTaskManager.pdb
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.dll
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\refint\PersonalTaskManager.dll
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.pdb
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\PersonalTaskManager.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\task manager\PersonalTaskManager\obj\Debug\net9.0\ref\PersonalTaskManager.dll
